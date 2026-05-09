@@ -1,4 +1,4 @@
-# Machine Learning Journey
+# <b>"Machine Learning"</b> Learning Journey
 
 This repository contains my Machine Learning learning progress, practice notebooks, notes, and mini-projects.
 
